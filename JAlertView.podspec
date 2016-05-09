@@ -7,6 +7,6 @@ Pod::Spec.new do |s|
    s.author       = { "jinxiansen" => "hi@jinxiansen.com" }
    s.source       = { :git => "https://github.com/jinxiansen/JAlertView.git", :tag => s.version }
    s.platform     = :ios, '8.0'
-   s.source_files = 'lib'     
-   s.requires_arc = true 
+   s.source_files = 'JAlertView/lib/'
+   s.requires_arc = true
  end

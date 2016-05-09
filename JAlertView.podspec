@@ -8,6 +8,6 @@ Pod::Spec.new do |s|
    s.source       = { :git => "https://github.com/jinxiansen/JAlertView.git", :tag => s.version }
    s.platform     = :ios, '8.0'
 
-   s.source_files = 'JAlertView/lib'     
+   s.source_files = 'JAlertView/JAlertView/lib'     
    s.requires_arc = true 
  end

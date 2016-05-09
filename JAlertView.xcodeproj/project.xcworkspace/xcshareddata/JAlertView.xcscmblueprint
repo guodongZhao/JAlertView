@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8909430D9B01E771C43D8911FA74672DF572647B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8909430D9B01E771C43D8911FA74672DF572647B" : 0,
+    "AC6B0EE2FE44A19AA5C2B8B7445D983558D96C2C" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "BFDAAA6B-C0DD-4ED6-963B-44D844B6C866",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8909430D9B01E771C43D8911FA74672DF572647B" : "JAlertView\/",
+    "AC6B0EE2FE44A19AA5C2B8B7445D983558D96C2C" : "JAlertView\/JAlertView\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "JAlertView",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "JAlertView.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jinxiansen\/JAlertView.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8909430D9B01E771C43D8911FA74672DF572647B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jinxiansen\/JAlertView.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AC6B0EE2FE44A19AA5C2B8B7445D983558D96C2C"
+    }
+  ]
+}

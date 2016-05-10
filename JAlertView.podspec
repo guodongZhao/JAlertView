@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
    s.name         = "JAlertView"
-   s.version      = "0.2.0"
+   s.version      = "0.2.1"
    s.summary      = "JAlertView is an Swift library for iOS developers."
    s.homepage     = "https://github.com/jinxiansen/JAlertView" 
    s.license      = 'MIT (LICENSE)'

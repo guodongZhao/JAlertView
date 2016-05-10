@@ -40,4 +40,4 @@ jinxiansen, email: hi@jinxiansen.com
 
 ## License
 
-JAlertView is available under the Apache License. See the LICENSE file for more info.
+JAlertView is available under the (MIT)License. See the LICENSE file for more info.

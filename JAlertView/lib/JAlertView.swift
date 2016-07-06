@@ -26,8 +26,8 @@ class JAlertView: UIView {
     let contentLabel = UILabel()
     var title = "" //标题
     var content = "" //内容
-    let cancelButton = UIButton()
-    let sureButton = UIButton()
+    let cancelButton = UIButton.init(type: UIButtonType.System)
+    let sureButton   = UIButton.init(type: UIButtonType.System)
     let tap = UITapGestureRecognizer()
     let grayMaskView = UIView()//蒙版
     

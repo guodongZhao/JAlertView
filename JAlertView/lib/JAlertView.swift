@@ -97,6 +97,14 @@ class JAlertView: UIView {
         sureButton.tag = 2
         sureButton.addTarget(self, action: #selector(buttonClickAction(_:)), forControlEvents: .TouchUpInside)
         backGroundView.addSubview(sureButton)
+
+        if cancelButton.titleLabel?.text?.characters.count<1 {
+            var frame = sureButton.frame
+            frame.origin.x = (backGroundView.frame.size.width - buttonWidth)/2
+            sureButton.frame = frame
+
+            cancelButton.removeFromSuperview()
+        }
         
         //更新Frame.
         backGroundView.frame = CGRect(x: 0, y:0, width: screen_Width - 60, height:CGRectGetMaxY(sureButton.frame)+20)

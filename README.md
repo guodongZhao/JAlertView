@@ -1,5 +1,5 @@
 # JAlertView
-[![CI Status](http://img.shields.io/travis/Pavel Katunin/JAlertView.svg?style=flat)](https://travis-ci.org/Pavel Katunin/JAlertView)
+
 [![Version](https://img.shields.io/cocoapods/v/JAlertView.svg?style=flat)](http://cocoapods.org/pods/JAlertView)
 [![License](https://img.shields.io/cocoapods/l/JAlertView.svg?style=flat)](http://cocoapods.org/pods/JAlertView)
 [![Platform](https://img.shields.io/cocoapods/p/JAlertView.svg?style=flat)](http://cocoapods.org/pods/JAlertView)
@@ -30,13 +30,17 @@ Requires iOS SDK version > 8.0
 JAlertView is available through [CocoaPods](http://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
+
 ```
 pod "JAlertView"
 ```
 
-## Author
+## Contacts
 
-jinxiansen, email: hi@jinxiansen.com
+####If you wish to contact me, email at: hi@jinxiansen.com
+
+#####Sina : [@晋先森](http://weibo.com/3205872327)
+#####Twitter : [@jinxiansen](https://twitter.com/jinxiansen)
 
 ## License
 
